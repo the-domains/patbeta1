@@ -1,6 +1,6 @@
 name: PatBeta1
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74473
 typography_spectrum: 0
 title: Patros Ltd.
 cta:
@@ -24,6 +24,6 @@ color:
     - '#dfb518'
   brandStrength: 0.3125
   lightness: 0.28934099012985826
-  saturation: 0.2984084023628384
+  saturation: 0.75
   rhythmicContrast: 1
 purpose: []
