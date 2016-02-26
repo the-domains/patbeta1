@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PatBeta1]]></title>
         <description><![CDATA[PatBeta1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/patbeta1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 09:56:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 10:06:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/patbeta1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://patros.hu/siteimages/in-car-network_small.jpg">]]></description>
+            <link>http://patros.hu/</link>
+            <guid isPermaLink="false">ca20446e-a8fa-4976-a3a6-3c5974f484b3</guid>
+            <pubDate>Fri, 26 Feb 2016 10:05:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cb1e7c2-100a-4397-b52e-a9481f1fade3.jpg">]]></description>
-            <link>undefined74a42e9b-2c31-44a3-b84c-aaa1095d9f10/index.html</link>
+            <link>https://thegrid.ai/patbeta1/74a42e9b-2c31-44a3-b84c-aaa1095d9f10/index.html</link>
             <guid isPermaLink="false">74a42e9b-2c31-44a3-b84c-aaa1095d9f10</guid>
             <pubDate>Fri, 26 Feb 2016 09:55:54 GMT</pubDate>
         </item>
