@@ -1,0 +1,28 @@
+name: PatBeta1
+favicon: null
+layout_spectrum: 0.8349063154309988
+typography_spectrum: 0.35198536259122193
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8626081156544387
+  lightness: 0.28934099012985826
+  saturation: 0.2984084023628384
+  rhythmicContrast: 0.7599483516532928
+purpose: []
